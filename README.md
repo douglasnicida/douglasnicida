@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @douglasnicida
-- 👀 I’m interested in DJANGO, REACTJS
-- 🌱 I’m currently learning Python, JS
+- 👀 I’m interested in REACTJS, NODEJS, PHP
+- 🌱 I’m currently learning JS, HTML, CSS, REACTJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me douglasnicida@gmail.com
 
