@@ -2,8 +2,8 @@
   
   <div align="center">
     <h1 align="center">Oi! Tudo bem? 😃️</h1>
-    <img width="100" height="100" src="https://scontent.fcpq2-1.fna.fbcdn.net/v/t39.30808-1/273307273_4785879111496026_8698400966410613105_n.jpg?stp=dst-jpg_s200x200&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHJ7pfRjIFj88GmuoVI1fVkrGkobMKTY0isaShswpNjSHv8FATDcYqOJv6i0PZZfo2WIT7MP0nsGRa2ByWnwnxZ&_nc_ohc=-6vrajZ_gIwAX-jh8iN&_nc_ht=scontent.fcpq2-1.fna&oh=00_AT8nU-jDdgoRPnzRAk5oaUuJsfY0N8ZfErgOZIskr-cq_g&oe=629516AB" alt="Foto de Douglas Nicida"/>
   </div>
+  
   <h1 align="center">Meu nome é <a href="https://www.linkedin.com/in/douglasnicida/"><i>Douglas Nicida</i></a></h1>
   
   
