@@ -20,7 +20,7 @@
   
 <ul>
   <li> 🇧🇷 Brazilian</li>
-  <li> 🗓️ 21 years old</li>
+  <li> 🗓️ 22 years old</li>
   <li> 🎓 I'm studying at UNESP - São Paulo State University.</li>
   <li> 📜 I'm currently studying the React Stack</li>
   <li> 📖 I'm learning ReactJS, Next.js, Redux, PHP, Node and styling technologies.</li>
