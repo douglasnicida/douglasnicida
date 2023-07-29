@@ -23,7 +23,7 @@
   <li> 🗓️ 22 years old</li>
   <li> 🎓 I'm studying at UNESP - São Paulo State University.</li>
   <li> 📜 I'm currently studying the React Stack</li>
-  <li> 📖 I'm learning ReactJS, Next.js, Redux, PHP, Node and styling technologies.</li>
+  <li> 📖 I'm learning ReactJS, Next.js, Redux, TailWindCSS, NodeJS and styling technologies.</li>
   <li> 🚀 My goal is to improve my skills and become a complete full stack developer. </li>
   <li> ❤️ Interests: 🎮 play on the computer, 🚴 bike, 🏊‍♂️ Swimming, 🎬 watch animes</li>
 </ul>
