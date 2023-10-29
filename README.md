@@ -1,10 +1,10 @@
 <div>
   
   <div align="center">
-    <h1 align="center">Oi! Tudo bem? 😃️</h1>
+    <h1 align="center">Hello! How are you? 😃️</h1>
   </div>
   
-  <h1 align="center">Meu nome é <a href="https://www.linkedin.com/in/douglasnicida/"><i>Douglas Nicida</i></a></h1>
+  <h1 align="center">My name is <a href="https://www.linkedin.com/in/douglasnicida/"><i>Douglas Nicida</i></a></h1>
   
   
   <div align="center">
