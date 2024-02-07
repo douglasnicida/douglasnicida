@@ -8,7 +8,7 @@
   
   
   <div align="center">
-  <img width="800" height="400" src="https://media2.giphy.com/media/l46Cnk4ZRTlfeI32o/giphy.gif?cid=790b7611bf20762aac13b0dc6c85494a953bbcedcc0b54f1&rid=giphy.gif&ct=g" alt="Miranha dando oi :P"/>
+<!--   <img width="800" height="400" src="https://media2.giphy.com/media/l46Cnk4ZRTlfeI32o/giphy.gif?cid=790b7611bf20762aac13b0dc6c85494a953bbcedcc0b54f1&rid=giphy.gif&ct=g" alt="Miranha dando oi :P"/> -->
 </div>
 <br>
   <br>
