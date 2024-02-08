@@ -22,7 +22,7 @@
   <li> 🇧🇷 Brazilian</li>
   <li> 🗓️ 22 years old</li>
   <li> 🎓 I'm studying at UNESP - São Paulo State University.</li>
-  <li> 📜 I'm currently studying the React Stack</li>
+  <li> 📜 I'm currently studying the React Stack but open to learn new technologies.</li>
   <li> 📖 I'm learning ReactJS, React Native, TailWindCSS, NodeJS and complementary technologies.</li>
   <li> 🚀 My goal is to improve my skills and become a complete full stack developer. </li>
   <li> ❤️ Interests: 🎮 play on the computer, 🚴 bike, 🏊‍♂️ Swimming, 🎬 watch animes</li>
