@@ -39,13 +39,13 @@
 <div align="center" valign="top"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nestjs,tailwind,nodejs,js,html,css,prisma" />
+      <img src="https://skillicons.dev/icons?i=react,nestjs,tailwind,nodejs,js,html,css,prisma&theme=dark" />
     </a>
   </p>
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=windows,linux" />
+      <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
     </a>
   </p>
 </div>
@@ -56,7 +56,7 @@
   <div align="center" valign="top"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,nextjs,sass" />
+      <img src="https://skillicons.dev/icons?i=typescript,nextjs,sass&theme=dark" />
     </a>
   </p>
   
