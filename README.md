@@ -1,9 +1,7 @@
-<div>
+<div align="center">
   
-  
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="300" height="400"/>
-  </div>
+
+  ![readme_github](https://github.com/douglasnicida/douglasnicida/assets/56737480/9752b3ab-3199-4d09-835c-96225cb3940b)
   
   
   <div align="center">
@@ -19,7 +17,7 @@
 </h1>
   
   
-<ul>
+<ul align="left">
   <li> 🇧🇷 Brazilian</li>
   <li> 🗓️ 22 years old</li>
   <li> 🎓 I'm studying at UNESP - São Paulo State University.</li>
@@ -28,7 +26,7 @@
   <li> 🚀 My goal is to improve my skills and become a complete full stack developer. </li>
   <li> ❤️ Interests: 🎮 play on the computer, 🚴 bike, 🏊‍♂️ Swimming, 🎬 watch animes</li>
 </ul>
-
+<br>
 <div align="center">
   <a href="https://github.com/douglasnicida">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglasnicida&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=false&show_owner=true"/>
