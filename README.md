@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="400" height="500" src="https://github.com/douglasnicida/douglasnicida/assets/56737480/9752b3ab-3199-4d09-835c-96225cb3940b" alt=""/>
+  <img width="350" height="450" src="https://github.com/douglasnicida/douglasnicida/assets/56737480/9752b3ab-3199-4d09-835c-96225cb3940b" alt=""/>
   
   <div align="center">
     <h1 align="center">Hello! How are you? 😃️</h1>
