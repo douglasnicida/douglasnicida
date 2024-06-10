@@ -17,7 +17,7 @@
   
 <ul align="left">
   <li> 🇧🇷 Brazilian</li>
-  <li> 🗓️ 22 years old</li>
+  <li> 🗓️ 23 years old</li>
   <li> 🎓 I'm studying at UNESP - São Paulo State University.</li>
   <li> 🖥️ My currently Stack is: ReactJS, TailWindCSS, NestJS</li>
   <li> 📖 I'm learning NextJS, React Native, NodeJS and complementary technologies.</li>
