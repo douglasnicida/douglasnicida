@@ -37,7 +37,7 @@
 <div align="center" valign="top"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nestjs,tailwind,nodejs,js,html,css,prisma&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,nodejs,typescript,js,html,css,prisma&theme=dark" />
     </a>
   </p>
 
@@ -54,7 +54,7 @@
   <div align="center" valign="top"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,nextjs,sass&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=redux,sass,docker&theme=dark" />
     </a>
   </p>
   
