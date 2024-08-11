@@ -19,8 +19,8 @@
   <li> 🇧🇷 Brazilian</li>
   <li> 🗓️ 23 years old</li>
   <li> 🎓 I'm studying at UNESP - São Paulo State University.</li>
-  <li> 🖥️ My currently Stack is: ReactJS, TailWindCSS, NestJS</li>
-  <li> 📖 I'm learning NextJS, React Native, NodeJS and complementary technologies.</li>
+  <li> 🖥️ My currently Stack is: ReactJS, NextJS, TailWindCSS, NestJS</li>
+  <li> 📖 Every time learning new things and improving!</li>
   <li> 🚀 My goal is to improve my skills and become a complete full stack developer. </li>
   <li> ❤️ Interests: 🎮 play on the computer, 🚴 bike, 🏊‍♂️ Swimming, 🎬 watch animes</li>
 </ul>
