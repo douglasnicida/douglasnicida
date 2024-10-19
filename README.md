@@ -1,6 +1,5 @@
 <div align="center">
   
-  <img width="350" height="450" src="https://github.com/douglasnicida/douglasnicida/assets/56737480/9752b3ab-3199-4d09-835c-96225cb3940b" alt=""/>
   
   <div align="center">
     <h1 align="center">Hello! How are you? 😃️</h1>
@@ -15,6 +14,7 @@
 </h1>
   
   
+<img width="350" height="450" src="https://github.com/douglasnicida/douglasnicida/assets/56737480/9752b3ab-3199-4d09-835c-96225cb3940b" alt="" align="right"/>
 <ul align="left">
   <li> 🇧🇷 Brazilian</li>
   <li> 🗓️ 23 years old</li>
@@ -31,6 +31,8 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasnicida&theme=omni&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+<br>
 <br>
  <h1 align="center">💻 MY STACK 💻</h1>
   
