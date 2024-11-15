@@ -52,17 +52,6 @@
   <br>
   <br>
   
-  <h1 align="center">🚀 NEXT STEPS 🚀</h1>
-  <div align="center" valign="top"><br>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=redux,sass,docker&theme=dark" />
-    </a>
-  </p>
-  
-  <br>
-    <br>
-  
   <h1 align="center">🕸️ HOW TO REACH ME 🕸️</h1>
 <div align="center">
   <a href="https://www.instagram.com/dougnicida/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
