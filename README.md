@@ -20,7 +20,7 @@
   <li> 🗓️ 24 years old</li>
   <li> 🎓 Graduated in Computer Science from UNESP - São Paulo State University.</li>
   <li> ⌨️ Currently working as software developer with: AngularJS, TypeScript, TailWindCSS, Python, PostgreSQL</li>
-  <li> 🖥️ My currently Stack is: ReactJS, NextJS, AngularJS, TailWindCSS, TypeScript, NestJS</li>
+  <li> 🖥️ My currently Stack is: AngularJS, ReactJS, TailWindCSS, TypeScript, NestJS</li>
   <li> 📖 Every time learning new things and improving!</li>
   <li> 🚀 My goal is to improve my skills and become a complete full stack developer. </li>
   <li> ❤️ Interests: 🎮 play on the computer, 🚴 bike, 🏊‍♂️ Swimming, 🎬 watch animes</li>
