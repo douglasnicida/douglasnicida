@@ -17,10 +17,10 @@
 <img width="350" height="450" src="https://github.com/douglasnicida/douglasnicida/assets/56737480/9752b3ab-3199-4d09-835c-96225cb3940b" alt="" align="right"/>
 <ul align="left">
   <li> 🇧🇷 Brazilian</li>
-  <li> 🗓️ 24 years old</li>
+  <li> 🗓️ 25 years old</li>
   <li> 🎓 Graduated in Computer Science from UNESP - São Paulo State University.</li>
-  <li> ⌨️ Currently working as software developer with: AngularJS, TypeScript, TailWindCSS, Python, PostgreSQL</li>
-  <li> 🖥️ My currently Stack is: AngularJS, ReactJS, TailWindCSS, TypeScript, NestJS</li>
+  <li> ⌨️ Currently working as software engineer with: NodeJS, TypeScript, Terraform, AWS, Java, Spring Boot, React, TailWindCSS, PostgreSQL</li>
+  <li> 🖥️ My currently Stack is: NodeJS, TypeScript, NestJS, AngularJS, ReactJS, TailWindCSS</li>
   <li> 📖 Every time learning new things and improving!</li>
   <li> 🚀 My goal is to improve my skills and become a complete full stack developer. </li>
   <li> ❤️ Interests: 🎮 play on the computer, 🚴 bike, 🏊‍♂️ Swimming, 🎬 watch animes</li>
